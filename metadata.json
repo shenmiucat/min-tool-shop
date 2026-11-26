@@ -1,0 +1,6 @@
+{
+  "name": "Min 的工具雜貨舖",
+  "description": "簡約護眼的個人日常小工具網頁應用，整合靈感待辦抽籤器、BOM 料號格式檢查器與常用工具入口，支援本機儲存與 JSON 備份還原。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
